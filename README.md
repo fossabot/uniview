@@ -4,7 +4,8 @@ SPDX-License-Identifier: CC0-1.0
 -->
 # uniview
 
-[![GitHub tag (with filter)](https://img.shields.io/github/v/tag/mpldr/uniview?label=version)]()
+[![GitHub tag (with filter)](https://img.shields.io/github/v/tag/mpldr/uniview?label=version)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmpldr%2Funiview.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmpldr%2Funiview?ref=badge_shield)
+()
 ![Licence: AGPL](https://img.shields.io/badge/-AGPL--3-green?logo=opensourceinitiative&label=License&cacheSeconds=31536000)
 ![Demo available under uv.mpldr.de](https://img.shields.io/badge/-uv.mpldr.de-blue?label=Demo&cacheSeconds=31536000)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mpldr/uniview)
@@ -49,3 +50,6 @@ This thing's (mostly) licensed under the
 [AGPL](./LICENSES/AGPL-3.0-or-later.txt). Details to the specific licence
 applicable to any file can be found inside the file as a comment or in a
 side-car file with the .license extension.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmpldr%2Funiview.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmpldr%2Funiview?ref=badge_large)
